@@ -1,0 +1,7 @@
+Expected simulation status:
+- The testbench applies positive, negative, and zero input samples.
+- The testbench checks the pipelined output against an independently delayed reference calculation.
+- A successful run should end with a line similar to:
+  TEST PASSED: <number> valid output samples checked.
+
+Actual simulator transcript should be captured from your own Vivado behavioral simulation before submission.
